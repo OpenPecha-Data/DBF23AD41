@@ -56,7 +56,7 @@ annotations:
     reference: ''
     span:
       start: 8532
-      end: 10030
+      end: 9984
     note_ref: 566cc3c7f355466eb596dc09f87da122
 local_ids:
   b2179a4297e3460ebff9dd159f3fa924: 200000
